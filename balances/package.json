@@ -1,0 +1,22 @@
+{
+  "name": "key-repair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack --mode development --display-error-details",
+    "build": "webpack --mode production"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "vue": "^2.5.16",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.3"
+  }
+}
